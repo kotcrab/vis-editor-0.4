@@ -1,7 +1,7 @@
 VisEditor
 =========
 
-#### VisEdior was depreacted and is no longer supported
+### VisEdior was depreacted and is no longer supported
 
 [VisEditor](https://vis.kotcrab.com/) is a cross platform 2D game level editor. It allows to easily create game scenes using intuitive drag and drop editor. 
 
@@ -11,5 +11,3 @@ See [Quick Start](https://github.com/kotcrab/vis-editor/wiki/Quick-Start) guide 
 
 #### Runtime
 VisEditor currently have libGDX runtime which uses [artemis-odb](https://github.com/junkdog/artemis-odb) for entity-component-system framework. With that runtime, you can load your scene in just a few lines of code.
-
-LibGDX runtime source code is a good start if you want to create your own runtime. If you do so, don't forget to let me know and I will gladly link it here.
